@@ -1,0 +1,7 @@
+{
+  "name": "yts_server",
+  "version": "1.0.20221121",
+  "bin": {
+    "yts": "./google3/video/youtube/testing/ytlr_cert/yts_server/yts"
+ }
+}

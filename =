@@ -1,0 +1,15 @@
+{
+  "cli_version": "",
+  "test_version": "",
+  "user_agent": "",
+  "tests": [],
+  "result": {
+    "overall_passed": true,
+    "tests_executed": 0,
+    "tests_passed": 0,
+    "tests_failed": 0,
+    "tests_optional_failed": 0,
+    "tests_skipped": 0,
+    "execution_status": "COMPLETE"
+  }
+}
